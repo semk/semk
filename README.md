@@ -1,3 +1,5 @@
+![banner](https://github.com/semk/semk/raw/master/profile_banner.png)
+
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sreejith Kesavan!
 
 I'm a Staff Software Engineer working at [Nutanix](https://nutanix.com).
