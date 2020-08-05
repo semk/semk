@@ -1,6 +1,6 @@
 Hello there,
 
-I'm Sreejith Kesavan, a Staff Software Engineer working at [Nutanix, Inc.](https://nutanix.com).
+I'm Sreejith Kesavan, a Staff Software Engineer working at [Nutanix](https://nutanix.com).
 
 I generally write code in Python and Go.
 
