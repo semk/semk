@@ -1,6 +1,6 @@
 ### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sreejith Kesavan!
 
-I'm a Staff Software Engineer working at [Nutanix, Inc.](https://nutanix.com).
+I'm a Staff Software Engineer working on [Hybrid Cloud Mobility](https://www.nutanix.com/products/move) solutions at [Nutanix, Inc.](https://nutanix.com).
 
 I love opensource & I mainly write software in Python and Go.
 
