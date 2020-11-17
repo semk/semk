@@ -10,11 +10,11 @@ I love opensource & I mainly write software in Python and Go.
 - [Voldemort](https://github.com/semk/voldemort): A simple static site generator using Jinja2 and Markdown templates
 - [Pytt](https://github.com/semk/Pytt): A simple BitTorrent Tracker using Tornado
 - [RegexMate](https://github.com/semk/RegexMate): A cross-platform Regular Expression Toolkit written in PyQt
-- [GameOfLife](https://github.com/semk/GameOfLife): Conway's Game of Life Simulation using PyQt
+- [GameOfLife](https://github.com/semk/GameOfLife): Conway's Game of Life simulation using PyQt
 - [GitFS](https://github.com/semk/GitFS): A FUSE filesystem that backs up the data on Git(Hub)
 - [Org2OPML](https://github.com/semk/Org2OPML): ORG (Emacs) to OPML (Mindnode and Freemind) file converter
 - [Appy](https://github.com/semk/appy): Boilerplate for Python applications
-- [wsnotifier](https://github.com/semk/wsnotifier): Lightweight gevent based Asynchronous WebSocket Server with HTTP forwarder APIs
+- [wsnotifier](https://github.com/semk/wsnotifier): Lightweight gevent based asynchronous websocket server with HTTP forwarder APIs
 - [riak-python-client](https://github.com/semk/riak-python-client): Python clients for Riak
 - [Resume](https://github.com/semk/Resume): Resume templates in LaTEX
 - [HyperGAE](https://github.com/semk/hypergae): Use Google App Engine SDK with Hypertable
