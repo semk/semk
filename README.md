@@ -8,7 +8,7 @@ I love opensource & I mainly write software in Python and Go.
 
 - [Cyclozzo](https://github.com/cyclozzo/cyclozzo): An opensource PaaS solution compatible with Google App Engine™
 - [Voldemort](https://github.com/semk/voldemort): A simple static site generator using Jinja2 and Markdown templates
-- [Pytt](https://github.com/semk/Pytt): BitTorrent Tracker using Tornado
+- [Pytt](https://github.com/semk/Pytt): A simple BitTorrent Tracker using Tornado
 - [RegexMate](https://github.com/semk/RegexMate): A cross-platform Regular Expression Toolkit written in PyQt
 - [GameOfLife](https://github.com/semk/GameOfLife): Conway's Game of Life Simulation using PyQt
 - [GitFS](https://github.com/semk/GitFS): A FUSE filesystem that backs up the data on Git(Hub)
@@ -19,7 +19,7 @@ I love opensource & I mainly write software in Python and Go.
 - [Resume](https://github.com/semk/Resume): Resume templates in LaTEX
 - [HyperGAE](https://github.com/semk/hypergae): Use Google App Engine SDK with Hypertable
 - [alpine-docker-host](https://github.com/semk/alpine-docker-host): Packer script to build a minimal Alpine Linux based Docker Host OS image (QCOW2/OVA) using QEMU
-- [filesigtable-go](https://github.com/semk/filesigtable-go): File Signature Table in Go. Includes utility to find file type based on file signatures.
+- [filesigtable-go](https://github.com/semk/filesigtable-go): File Signature Table in Go. Includes utility to find file type based on file signatures
 - [gofiximports](https://github.com/semk/gofiximports): Utility to fix/replace import paths in Go files recursively & pretty-print like gofmt
 - [argparse](https://github.com/semk/argparse): Simple and elegant command line argument parser for shell scripts
 - [cinephile](https://github.com/semk/cinephile): Tool to work with Movie video files. Fetches IMDB info and subtitles
