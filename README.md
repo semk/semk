@@ -2,8 +2,6 @@
 
 I'm a Staff Software Engineer working on [Hybrid Cloud Mobility](https://www.nutanix.com/products/move) solutions at [Nutanix, Inc.](https://nutanix.com).
 
-I love opensource & I mainly write software in Python and Go.
-
 ### My Projects & Contributions
 
 - [Cyclozzo](https://github.com/cyclozzo/cyclozzo): An opensource PaaS solution compatible with Google App Engine™
