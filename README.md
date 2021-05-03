@@ -5,6 +5,7 @@ I'm a Staff Software Engineer working on [Hybrid Cloud Mobility](https://www.nut
 ### My Projects & Contributions
 
 - [Cyclozzo](https://github.com/cyclozzo/cyclozzo): An opensource PaaS solution compatible with Google App Engine™
+- [EnlargeWeb](https://github.com/semk/enlargeweb): A VM deployer and manager
 - [Voldemort](https://github.com/semk/voldemort): A simple static site generator using Jinja2 and Markdown templates
 - [Pytt](https://github.com/semk/Pytt): A simple BitTorrent Tracker using Tornado
 - [RegexMate](https://github.com/semk/RegexMate): A cross-platform Regular Expression Toolkit written in PyQt
